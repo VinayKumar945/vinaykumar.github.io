@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vinay Kumar",
+    "section": "",
+    "text": "Pursuing MSc. in Quantitative Economics and Econometrics at UTD"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Vinay Kumar, currently pursuing an MSc in Quantitative Economics and Econometrics with a passion for exploring the diverse opportunities within the field. My experience spans data analysis, financial modeling, and strategic planning, where I’ve honed my skills in translating complex data into actionable insights. I thrive in fast-paced environments, continuously seeking to expand my expertise and make meaningful contributions to innovative projects. Whether it’s applying advanced statistical models or exploring the economic impact of technological change, I’m dedicated to driving success through meticulous research and strategic thinking.\nCurrently, I am a Research Analyst Intern at M&B Sciences, where I am developing a sophisticated web application to visualize the distribution of medical professionals, which has significantly enhanced overall performance. My expertise in statistical modeling has refined targeted resource allocation, while my strategic insights have driven substantial business growth and improved client satisfaction."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Led a comprehensive analysis of the Texas housing market, exploring the relationships between housing prices and property features to enhance market valuations. Developed a robust linear regression model and utilized advanced validation techniques to improve predictive accuracy. In a separate project, refined data tracking and trend analysis for COVID-19, resulting in improved intervention strategies and more accurate vaccination statistics through effective dashboard design."
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Labor Economics I: Analyzes labor market dynamics, including employment trends, wage determination, and labor market policies.\nMethods of Data Collection & Production: Focuses on techniques and methodologies for collecting and producing data for analysis.\nData Visualization: Develops skills in visualizing data effectively to communicate insights and support decision-making.\nMarketing Management: Covers strategies and practices in marketing management, including consumer behavior and market analysis.\nMacroeconomic Theory for Applications: Explores macroeconomic theories and their practical applications to economic policy and analysis.\nSpecial Topics in Economics: Examines contemporary issues and research in economics, addressing specific and emerging topics.\nApplied Econometrics: Utilizes econometric methods for analyzing economic data and building statistical models.\nMicroeconomics Theory for Applications: Delves into advanced microeconomic theories and their practical applications.\nMathematical Economics: Applies mathematical methods to solve economic problems and model economic behavior.\nInternational Finance: Studies global financial systems, including international markets and cross-border investments."
+  }
+]
