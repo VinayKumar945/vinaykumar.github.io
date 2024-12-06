@@ -1,0 +1,34 @@
+project:
+  type: website
+  
+website:
+  title: "Vinay Kumar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - text: Project
+        menu:
+          - href: data_viz_final.html
+            text: Data Visualization Final Project
+          - href: Kumar_Final_Presentation.pptx
+            text: Data Visualization Final PPT
+      - href: coursework.qmd
+        text: Coursework
+      - href: data_visualization.qmd
+        text: Data Visualization
+      - href: data_collection.qmd
+        text: Data Collection
+      - href: vinaykumarcv.pdf
+        text: CV
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+   
+editor: visual
