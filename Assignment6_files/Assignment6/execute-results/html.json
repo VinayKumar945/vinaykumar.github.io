@@ -1,0 +1,14 @@
+{
+  "hash": "0ae131aeb0d7bc27b5322fdcc05267cf",
+  "result": {
+    "markdown": "---\ntitle: \"Assignment6\"\nauthor: \"Vinay_kumar\"\ndate: \"2024-12-07\"\noutput: html_document\nruntime: shiny\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stderr}\n```\nWarning: package 'shiny' was built under R version 4.3.3\n```\n:::\n\n::: {.cell-output-display}\n`<iframe data-deferred-src=\"app9bd3ecc8d9a54dc786f87a618dfa987a/?w=&amp;__subapp__=1\" width=\"100%\" height=\"400\" class=\"shiny-frame shiny-frame-deferred\"></iframe>`{=html}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
